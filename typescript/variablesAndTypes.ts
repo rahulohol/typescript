@@ -13,6 +13,11 @@ let rollNo:number = 7; // floats are also comes in number type. so we can define
 // boolean type
  let flag:boolean = true;
   
-
+// any type
+ let name; // it will be assigned to (any) type
+ function getName(){ 
+    return "rahul"
+}
+name = getName(); // (name) can be assigned to any type
 
 export {};
