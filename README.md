@@ -1,6 +1,6 @@
-## typescript
+# typescript
  Below I have written file names and what is inside.
-# intro - 
+## intro - 
 basic typescript intro 
-# variablesAndTypes -
+## variablesAndTypes -
  Will find how we define variables with types in typescript.
