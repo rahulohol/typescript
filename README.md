@@ -3,6 +3,6 @@
 ## intro - 
 basic typescript intro 
 ## variablesAndTypes -
- Will find how we define variables with types in typescript.
- ##functions -
+ Will find how we define variables with types in typescript. 
+ ## functions -
  all about functions and syntax...
