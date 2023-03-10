@@ -6,3 +6,7 @@ basic typescript intro
  Will find how we define variables with types in typescript. 
  ## functions -
  all about functions and syntax...
+ ## objects -
+ objects types and custom type
+ ## unions -
+ union types
